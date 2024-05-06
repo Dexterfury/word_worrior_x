@@ -10,7 +10,7 @@ class Constants {
     Colors.green,
   ];
 
-  static final colorizedTextStyle = GoogleFonts.acme(
+  static const colorizedTextStyle = TextStyle(
     fontSize: 30.0,
     fontWeight: FontWeight.bold,
   );
