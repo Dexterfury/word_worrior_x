@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="word_worrior_x"
+        android:label="word_warrior"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

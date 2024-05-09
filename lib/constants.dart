@@ -16,7 +16,7 @@ class Constants {
   );
 
   // app name
-  static const appName = 'Word Worrior';
+  static const appName = 'Word Warrior';
 
   // game setup
   static const gameSetup = 'Game Setup';
